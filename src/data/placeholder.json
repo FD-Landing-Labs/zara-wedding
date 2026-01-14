@@ -1,0 +1,549 @@
+{
+  "site": {
+    "name": "Shanoory Flora",
+    "tagline": "Wedding Floral Design",
+    "description": "Exquisite floral arrangements and wedding decorations that transform your special day into an unforgettable celebration of love and beauty.",
+    "logo": {
+      "default": "https://placehold.co/120x40/1a1a1a/ffffff?text=FD+Floral",
+      "white": "https://placehold.co/120x40/ffffff/1a1a1a?text=FD+Floral",
+      "alt": "Shanoory Wedding Design Logo"
+    },
+    "seo": {
+      "title": "Shanoory - Luxury Wedding Floral Design",
+      "description": "Transform your wedding with breathtaking floral arrangements. Luxury wedding florals, bouquets, ceremony decor, and reception styling by Shanoory.",
+      "keywords": [
+        "wedding flowers",
+        "floral design",
+        "wedding decorator",
+        "bridal bouquet",
+        "ceremony flowers",
+        "reception decor",
+        "luxury wedding florals"
+      ],
+      "ogImage": "https://placehold.co/1200x630/d92983/ffffff?text=FD+Floral"
+    }
+  },
+  "navbar": {
+    "brandName": "Shanoory Flora",
+    "brandMark": "",
+    "barLinks": [
+      {
+        "name": "About",
+        "href": "#intro"
+      },
+      {
+        "name": "Services",
+        "href": "#services"
+      },
+      {
+        "name": "Portfolio",
+        "href": "#works"
+      },
+      {
+        "name": "FAQ",
+        "href": "#faq"
+      }
+    ],
+    "cta": {
+      "label": "Book Consultation",
+      "href": "#footer"
+    },
+    "menuLinks": [
+      {
+        "name": "Home",
+        "number": "01",
+        "href": "#hero"
+      },
+      {
+        "name": "About",
+        "number": "02",
+        "href": "#intro"
+      },
+      {
+        "name": "Why Us",
+        "number": "03",
+        "href": "#why-us"
+      },
+      {
+        "name": "Services",
+        "number": "04",
+        "href": "#services"
+      },
+      {
+        "name": "Portfolio",
+        "number": "05",
+        "href": "#works"
+      },
+      {
+        "name": "Testimonials",
+        "number": "06",
+        "href": "#testimonials"
+      },
+      {
+        "name": "Contact",
+        "number": "07",
+        "href": "#footer"
+      }
+    ],
+    "featured": {
+      "studioName": "Shanoory Flora",
+      "image": "/assets/images/nav2.jpg",
+      "copyright": "© 2026 All rights reserved"
+    },
+    "contact": {
+      "email": "hello@fdfloral.com",
+      "phone": "(123) 456-7890"
+    },
+    "socialLinks": [
+      {
+        "name": "Instagram",
+        "href": "https://instagram.com"
+      },
+      {
+        "name": "Pinterest",
+        "href": "https://pinterest.com"
+      },
+      {
+        "name": "Facebook",
+        "href": "https://facebook.com"
+      }
+    ],
+    "avatars": [
+      {
+        "image": "/assets/images/avatar/1.jpg"
+      },
+      {
+        "image": "/assets/images/avatar/2.jpg"
+      },
+      {
+        "image": "/assets/images/avatar/3.jpg"
+      },
+      {
+        "image": "/assets/images/avatar/4.jpg"
+      }
+    ]
+  },
+  "hero": {
+    "headline": {
+      "line1": "Crafting",
+      "line2": "Floral Magic",
+      "line3": "For Your Day"
+    },
+    "description": "We create breathtaking floral experiences that transform your wedding into an enchanting celebration of love, beauty, and timeless elegance.",
+    "image": "/assets/images/hero.png",
+    "cta": {
+      "primary": {
+        "label": "Book Consultation",
+        "href": "#footer"
+      },
+      "secondary": {
+        "label": "View Portfolio",
+        "href": "#works"
+      }
+    },
+    "stats": {
+      "weddings": "500+",
+      "weddingsLabel": "Weddings Styled",
+      "rating": "4.9",
+      "ratingLabel": "Client Rating"
+    }
+  },
+  "intro": {
+    "sectionLabel": "/About Us",
+    "sectionNumber": "01",
+    "headline": "Where Flowers Meet Forever",
+    "description": "At Shanoory, we believe every love story deserves to be adorned with nature's most beautiful creations. With over a decade of experience in luxury wedding floral design, we transform your vision into stunning botanical masterpieces that capture the essence of your unique romance.",
+    "image": "/assets/images/introdu.jpg",
+    "highlights": [
+      "Personalized design consultations",
+      "Premium seasonal blooms",
+      "Full-service wedding styling",
+      "Sustainable floral practices"
+    ]
+  },
+  "whyUs": {
+    "sectionLabel": "/Why Choose Us",
+    "sectionNumber": "02",
+    "headline": {
+      "main": "We create floral experiences that are",
+      "highlight": "elegant, personalized, and unforgettable."
+    },
+    "features": [
+      {
+        "id": "feature-1",
+        "icon": "flower",
+        "title": "Artisan Craftsmanship",
+        "description": "Each arrangement is meticulously handcrafted by our expert florists with an eye for detail and design excellence."
+      },
+      {
+        "id": "feature-2",
+        "icon": "heart",
+        "title": "Personalized Service",
+        "description": "We take time to understand your vision, style, and love story to create florals that truly reflect you."
+      },
+      {
+        "id": "feature-3",
+        "icon": "sparkles",
+        "title": "Premium Quality",
+        "description": "We source only the freshest, most exquisite blooms from trusted local and international growers."
+      },
+      {
+        "id": "feature-4",
+        "icon": "calendar",
+        "title": "Stress-Free Experience",
+        "description": "From consultation to installation, we handle every detail so you can focus on enjoying your special day."
+      }
+    ],
+    "stats": [
+      {
+        "value": "500+",
+        "label": "Weddings Styled"
+      },
+      {
+        "value": "10+",
+        "label": "Years Experience"
+      },
+      {
+        "value": "4.9",
+        "label": "Client Rating"
+      }
+    ]
+  },
+  "services": {
+    "sectionLabel": "/Our Services",
+    "sectionNumber": "03",
+    "headline": "Full-Service Wedding Florals",
+    "description": "From intimate elopements to grand celebrations, we offer comprehensive floral services tailored to your unique vision and style.",
+    "items": [
+      {
+        "id": "service-1",
+        "title": "Bridal Bouquets",
+        "description": "Stunning hand-tied bouquets that complement your gown and personal style, from classic roses to wild garden designs.",
+        "image": "/assets/images/boquet.jpg",
+        "icon": "flower2"
+      },
+      {
+        "id": "service-2",
+        "title": "Ceremony Decor",
+        "description": "Transform your ceremony space with breathtaking arches, aisle arrangements, and altar pieces that set the perfect scene.",
+        "image": "/assets/images/ceremony.jpg",
+        "icon": "church"
+      },
+      {
+        "id": "service-3",
+        "title": "Reception Styling",
+        "description": "Elegant centerpieces, table runners, and statement installations that create an unforgettable dining experience.",
+        "image": "/assets/images/reception.jpg",
+        "icon": "wine"
+      },
+      {
+        "id": "service-4",
+        "title": "Full Wedding Styling",
+        "description": "Complete floral design from ceremony to reception, including personal flowers, installations, and day-of setup.",
+        "image": "/assets/images/full.jpg",
+        "icon": "sparkles"
+      }
+    ]
+  },
+  "works": {
+    "sectionLabel": "Gallery",
+    "sectionNumber": "04",
+    "headline": "Glimpses of Our Floral Artistry",
+    "description": "A glimpse into the beautiful celebrations we've had the honor of styling.",
+    "cta": {
+      "label": "View Portfolio",
+      "href": "#"
+    },
+    "items": [
+      {
+        "id": "work-1",
+        "number": "01",
+        "title": "Garden Romance",
+        "image": "/assets/images/works/1.jpg"
+      },
+      {
+        "id": "work-2",
+        "number": "02",
+        "title": "Rustic Elegance",
+        "image": "/assets/images/works/2.jpg"
+      },
+      {
+        "id": "work-3",
+        "number": "03",
+        "title": "Bohemian Dream",
+        "image": "/assets/images/works/3.jpg"
+      },
+      {
+        "id": "work-4",
+        "number": "04",
+        "title": "Modern Luxe",
+        "image": "/assets/images/works/4.jpg"
+      },
+      {
+        "id": "work-5",
+        "number": "05",
+        "title": "Classic Ceremony",
+        "image": "/assets/images/works/5.jpg"
+      },
+      {
+        "id": "work-6",
+        "number": "06",
+        "title": "Reception Styling",
+        "image": "/assets/images/works/6.jpg"
+      },
+      {
+        "id": "work-7",
+        "number": "07",
+        "title": "Tropical Paradise",
+        "image": "/assets/images/works/7.jpg"
+      },
+      {
+        "id": "work-8",
+        "number": "08",
+        "title": "Intimate Elopement",
+        "image": "/assets/images/works/8.jpg"
+      },
+      {
+        "id": "work-9",
+        "number": "09",
+        "title": "Grand Ballroom",
+        "image": "/assets/images/works/9.jpg"
+      }
+    ]
+  },
+  "promo": {
+    "sectionLabel": "Special Offer",
+    "sectionNumber": "05",
+    "headline": "Book 6+ months ahead\nand enjoy 15% savings",
+    "image": "/assets/images/promo.jpg",
+    "cta": {
+      "label": "Reserve Now",
+      "href": "#footer"
+    }
+  },
+  "testimonials": {
+    "sectionLabel": "Reviews",
+    "sectionNumber": "06",
+    "overallRating": "4.98",
+    "headline": "We're proud to deliver florals\nthat couples consistently love.",
+    "ratingCategories": [
+      {
+        "label": "Quality",
+        "value": "4.9"
+      },
+      {
+        "label": "Service",
+        "value": "5.0"
+      },
+      {
+        "label": "Design",
+        "value": "5.0"
+      },
+      {
+        "label": "Communication",
+        "value": "5.0"
+      }
+    ],
+    "cta": {
+      "label": "View All",
+      "href": "#"
+    },
+    "items": [
+      {
+        "id": "testimonial-1",
+        "name": "Sarah M.",
+        "location": "Garden Wedding",
+        "rating": "5.0",
+        "quote": "Absolutely stunning work! The ceremony arch took our breath away, and every single arrangement was perfect. Shanoory truly understood our vision and brought it to life beautifully.",
+        "avatar": "/assets/images/avatar/1.jpg",
+        "date": "Aug 28, 2025"
+      },
+      {
+        "id": "testimonial-2",
+        "name": "Emily R.",
+        "location": "Ballroom Wedding",
+        "rating": "5.0",
+        "quote": "Working with Shanoory was a dream! They transformed our venue into a romantic paradise. The centerpieces were stunning and my bridal bouquet was exactly what I envisioned.",
+        "avatar": "/assets/images/avatar/2.jpg",
+        "date": "Jul 03, 2025"
+      },
+      {
+        "id": "testimonial-3",
+        "name": "Jessica K.",
+        "location": "Beach Wedding",
+        "rating": "5.0",
+        "quote": "Great value for the quality. Beautiful tropical arrangements, and the team was so close by. Ideal choice for our destination wedding.",
+        "avatar": "/assets/images/avatar/3.jpg",
+        "date": "Apr 10, 2025"
+      },
+      {
+        "id": "testimonial-4",
+        "name": "Amanda L.",
+        "location": "Rustic Barn",
+        "rating": "5.0",
+        "quote": "Perfect florals for our rustic theme! The wildflower arrangements were minutes away from what I'd dreamed of, and everything was cozy and elegant. Love it!",
+        "avatar": "/assets/images/avatar/4.jpg",
+        "date": "Aug 13, 2025"
+      },
+      {
+        "id": "testimonial-5",
+        "name": "Rachel T.",
+        "location": "Church Wedding",
+        "rating": "5.0",
+        "quote": "Such beautiful arrangements! The altar flowers were great, the ceremony was quiet and elegant, and Shanoory made check-in super easy. Communication was smooth and stress-free!",
+        "avatar": "/assets/images/avatar/5.jpg",
+        "date": "Jun 08, 2025"
+      },
+      {
+        "id": "testimonial-6",
+        "name": "Michael B.",
+        "location": "Vineyard Wedding",
+        "rating": "5.0",
+        "quote": "Superhost service all the way. The florals were beautiful, communication was instant, and we felt right at home from the start. The atmosphere was so welcoming. Five stars!",
+        "avatar": "/assets/images/avatar/1.jpg",
+        "date": "Mar 17, 2025"
+      },
+      {
+        "id": "testimonial-7",
+        "name": "William N.",
+        "location": "Modern Venue",
+        "rating": "5.0",
+        "quote": "Stylish arrangements with everything we needed. The team was quick to respond, making planning super easy. Would recommend to anyone getting married!",
+        "avatar": "/assets/images/avatar/2.jpg",
+        "date": "Jul 20, 2025"
+      },
+      {
+        "id": "testimonial-8",
+        "name": "Julian D.",
+        "location": "Garden Estate",
+        "rating": "5.0",
+        "quote": "Fantastic florals! Cozy, beautiful, and perfectly located. The photos don't do it justice – it's even better in person. Everything was so comfortable and well-prepared!",
+        "avatar": "/assets/images/avatar/3.jpg",
+        "date": "May 17, 2025"
+      },
+      {
+        "id": "testimonial-9",
+        "name": "Scarlett A.",
+        "location": "City Wedding",
+        "rating": "5.0",
+        "quote": "Wonderful experience from start to finish! The arrangements were spotless, elegant, and had everything we needed. The team was friendly and responsive throughout.",
+        "avatar": "/assets/images/avatar/4.jpg",
+        "date": "Feb 05, 2025"
+      }
+    ]
+  },
+  "faq": {
+    "sectionLabel": "/FAQs",
+    "sectionNumber": "07",
+    "headline": "Common Questions",
+    "description": "Everything you need to know about working with us for your wedding florals.",
+    "cta": {
+      "label": "Still have questions? Contact us",
+      "href": "#footer"
+    },
+    "items": [
+      {
+        "id": "faq-1",
+        "question": "How far in advance should I book?",
+        "answer": "We recommend booking 6-12 months before your wedding date to ensure availability, especially for peak wedding season (May-October). However, we occasionally have openings for shorter timelines, so don't hesitate to reach out."
+      },
+      {
+        "id": "faq-2",
+        "question": "What is your pricing structure?",
+        "answer": "Our wedding packages start at $2,500 for intimate celebrations and scale based on your vision, guest count, and floral selections. We provide detailed proposals after our initial consultation to ensure complete transparency."
+      },
+      {
+        "id": "faq-3",
+        "question": "Do you offer setup and breakdown?",
+        "answer": "Yes! All our packages include professional delivery, setup, and styling on your wedding day. We also offer next-day pickup for rental items like vases and arches."
+      },
+      {
+        "id": "faq-4",
+        "question": "Can you work with my wedding planner?",
+        "answer": "Absolutely! We love collaborating with wedding planners and venues to ensure seamless coordination. We're experienced in working with various professionals to bring your vision to life."
+      },
+      {
+        "id": "faq-5",
+        "question": "What if my flowers aren't in season?",
+        "answer": "We'll discuss seasonal availability during your consultation and suggest beautiful alternatives that achieve your desired look. We work with premium suppliers to source the best blooms year-round."
+      },
+      {
+        "id": "faq-6",
+        "question": "Do you do destination weddings?",
+        "answer": "Yes! We've styled destination weddings across the country and internationally. Travel fees apply and are discussed upfront. We coordinate with local vendors to ensure fresh, beautiful flowers arrive perfectly."
+      },
+      {
+        "id": "faq-7",
+        "question": "What is your cancellation policy?",
+        "answer": "We understand that plans can change. Deposits are non-refundable, but we offer flexible rescheduling options. Full details are provided in our contract."
+      }
+    ]
+  },
+  "footer": {
+    "brand": {
+      "name": "Shanoory Flora",
+      "tagline": "Your Florals"
+    },
+    "headline": "Always Here\nfor Your Day",
+    "cta": {
+      "label": "Reserve Now",
+      "href": "#hero"
+    },
+    "contact": {
+      "email": "hello@shanoory.com",
+      "phone": "+1 (212) 555-0199"
+    },
+    "bannerImage": "/assets/images/footer.jpg",
+    "linkGroups": [
+      {
+        "title": "Menu",
+        "links": [
+          {
+            "name": "About",
+            "href": "#intro"
+          },
+          {
+            "name": "Gallery",
+            "href": "#works"
+          },
+          {
+            "name": "Services",
+            "href": "#services"
+          },
+          {
+            "name": "Reviews",
+            "href": "#testimonials"
+          },
+          {
+            "name": "FAQ",
+            "href": "#faq"
+          },
+          {
+            "name": "Contact",
+            "href": "#footer"
+          }
+        ]
+      },
+      {
+        "title": "Explore",
+        "links": [
+          {
+            "name": "Instagram",
+            "href": "https://instagram.com"
+          },
+          {
+            "name": "Pinterest",
+            "href": "https://pinterest.com"
+          }
+        ]
+      }
+    ],
+    "bottomLinks": [
+      {
+        "name": "Licenses",
+        "href": "/licenses"
+      }
+    ],
+    "copyright": "© 2026 Shanoory. All rights reserved."
+  }
+}

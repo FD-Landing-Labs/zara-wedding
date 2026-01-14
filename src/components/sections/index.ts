@@ -1,0 +1,11 @@
+// Export all landing page sections
+export { Navbar } from "./navbar";
+export { Hero } from "./hero";
+export { Intro } from "./intro";
+export { Marquee } from "./marquee";
+export { Services } from "./services";
+export { Works } from "./works";
+export { Promo } from "./promo";
+export { Testimonials } from "./testimonials";
+export { FAQ } from "./faq";
+export { Footer } from "./footer";
