@@ -58,7 +58,7 @@ export function Navbar({ data }: NavbarProps) {
         >
           <Image
             src="/assets/images/logo.png"
-            alt="Shanoory Logo"
+            alt="Zara Wedding Logo"
             width={24}
             height={24}
             className="w-8 h-8 rounded-full"

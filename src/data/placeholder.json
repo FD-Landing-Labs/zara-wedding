@@ -1,16 +1,16 @@
 {
   "site": {
-    "name": "Shanoory Flora",
+    "name": "Zara Wedding",
     "tagline": "Wedding Floral Design",
     "description": "Exquisite floral arrangements and wedding decorations that transform your special day into an unforgettable celebration of love and beauty.",
     "logo": {
       "default": "https://placehold.co/120x40/1a1a1a/ffffff?text=FD+Floral",
       "white": "https://placehold.co/120x40/ffffff/1a1a1a?text=FD+Floral",
-      "alt": "Shanoory Wedding Design Logo"
+      "alt": "Zara Wedding Design Logo"
     },
     "seo": {
-      "title": "Shanoory - Luxury Wedding Floral Design",
-      "description": "Transform your wedding with breathtaking floral arrangements. Luxury wedding florals, bouquets, ceremony decor, and reception styling by Shanoory.",
+      "title": "Zara Wedding - Luxury Wedding Floral Design",
+      "description": "Transform your wedding with breathtaking floral arrangements. Luxury wedding florals, bouquets, ceremony decor, and reception styling by Zara Wedding.",
       "keywords": [
         "wedding flowers",
         "floral design",
@@ -24,7 +24,7 @@
     }
   },
   "navbar": {
-    "brandName": "Shanoory Flora",
+    "brandName": "Zara Wedding",
     "brandMark": "",
     "barLinks": [
       {
@@ -86,7 +86,7 @@
       }
     ],
     "featured": {
-      "studioName": "Shanoory Flora",
+      "studioName": "Zara Wedding",
       "image": "/assets/images/nav2.jpg",
       "copyright": "© 2026 All rights reserved"
     },
@@ -152,7 +152,7 @@
     "sectionLabel": "/About Us",
     "sectionNumber": "01",
     "headline": "Where Flowers Meet Forever",
-    "description": "At Shanoory, we believe every love story deserves to be adorned with nature's most beautiful creations. With over a decade of experience in luxury wedding floral design, we transform your vision into stunning botanical masterpieces that capture the essence of your unique romance.",
+    "description": "At Zara, we believe every love story deserves to be adorned with nature's most beautiful creations. With over a decade of experience in luxury wedding floral design, we transform your vision into stunning botanical masterpieces that capture the essence of your unique romance.",
     "image": "/assets/images/introdu.jpg",
     "highlights": [
       "Personalized design consultations",
@@ -354,7 +354,7 @@
         "name": "Sarah M.",
         "location": "Garden Wedding",
         "rating": "5.0",
-        "quote": "Absolutely stunning work! The ceremony arch took our breath away, and every single arrangement was perfect. Shanoory truly understood our vision and brought it to life beautifully.",
+        "quote": "Absolutely stunning work! The ceremony arch took our breath away, and every single arrangement was perfect. Zara truly understood our vision and brought it to life beautifully.",
         "avatar": "/assets/images/avatar/1.jpg",
         "date": "Aug 28, 2025"
       },
@@ -363,7 +363,7 @@
         "name": "Emily R.",
         "location": "Ballroom Wedding",
         "rating": "5.0",
-        "quote": "Working with Shanoory was a dream! They transformed our venue into a romantic paradise. The centerpieces were stunning and my bridal bouquet was exactly what I envisioned.",
+        "quote": "Working with Zara was a dream! They transformed our venue into a romantic paradise. The centerpieces were stunning and my bridal bouquet was exactly what I envisioned.",
         "avatar": "/assets/images/avatar/2.jpg",
         "date": "Jul 03, 2025"
       },
@@ -390,7 +390,7 @@
         "name": "Rachel T.",
         "location": "Church Wedding",
         "rating": "5.0",
-        "quote": "Such beautiful arrangements! The altar flowers were great, the ceremony was quiet and elegant, and Shanoory made check-in super easy. Communication was smooth and stress-free!",
+        "quote": "Such beautiful arrangements! The altar flowers were great, the ceremony was quiet and elegant, and Zara made check-in super easy. Communication was smooth and stress-free!",
         "avatar": "/assets/images/avatar/5.jpg",
         "date": "Jun 08, 2025"
       },
@@ -481,7 +481,7 @@
   },
   "footer": {
     "brand": {
-      "name": "Shanoory Flora",
+      "name": "Zara Wedding",
       "tagline": "Your Florals"
     },
     "headline": "Always Here\nfor Your Day",
@@ -490,7 +490,7 @@
       "href": "#hero"
     },
     "contact": {
-      "email": "hello@shanoory.com",
+      "email": "hello@zarawedding.com",
       "phone": "+1 (212) 555-0199"
     },
     "bannerImage": "/assets/images/footer.jpg",
@@ -544,6 +544,6 @@
         "href": "/licenses"
       }
     ],
-    "copyright": "© 2026 Shanoory. All rights reserved."
+    "copyright": "© 2026 Zara Wedding. All rights reserved."
   }
 }
